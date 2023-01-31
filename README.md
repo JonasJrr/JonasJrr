@@ -1,8 +1,8 @@
 ### Hello World!👋 Eu sou Jonas Júnior
 
 
-- 💬 Estudante de Análise e Desenvolvimento de Sistemas na UNIME, atualmente no 2 semestre
-- 💬 Apaixonado pela área da programação ❤️
+- 💬 Estudante de Análise e Desenvolvimento de Sistemas na UNIME, atualmente no 3° semestre
+- 💬 Em constante evolução
 
 <div align="center">
   <a href="https://github.com/JonasJrr">
