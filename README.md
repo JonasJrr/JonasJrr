@@ -1,6 +1,6 @@
 ### Hello World!👋 Eu sou Jonas Júnior
 
-
+- 💬 Desenvolvedor Front-end Jr
 - 💬 Estudante de Análise e Desenvolvimento de Sistemas na UNIME, atualmente no 3° semestre
 - 💬 Em constante evolução
 
