@@ -1,7 +1,7 @@
 ### Hello World!👋 
 
-- 💬 Desenvolvedor Front-end Jr 👨‍💻
-- 💬 Estudante de Análise e Desenvolvimento de Sistemas na UNIME, atualmente no 3° semestre 📚
+- 💬 Desenvolvedor Jr 👨‍💻
+- 💬 Estudante de Análise e Desenvolvimento de Sistemas na UNIME, cursando o 3° semestre 📚
 - 💬 Em constante evolução 🚀
 
 <div align="center">
