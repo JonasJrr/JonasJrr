@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Desenvolvedor Júnior 👨‍💻</h3>
-  <h3>Cursando Análise e Desenvolvimento de Sistemas (4° semestre) 📚</h3>
+  <h3>Desenvolvedor 👨‍💻</h3>
+  <h3>Formado em Análise e Desenvolvimento de Sistemas 📚</h3>
   <h3>Em constante evolução 🚀</h3>
 </div>
 
